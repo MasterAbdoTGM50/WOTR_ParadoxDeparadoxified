@@ -1,0 +1,12 @@
+{
+  "Id": "ParadoxDeparadoxified",
+  "DisplayName": "Paradox Deparadoxified",
+  "Author": "MasterAbdoTGM50",
+  "Repository": "https://raw.githubusercontent.com/MasterAbdoTGM50/WOTR_ParadoxDeparadoxified/main/ParadoxDeparadoxified/Repository.json",
+  "HomePage": "https://github.com/MasterAbdoTGM50/WOTR_ParadoxDeparadoxified",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "1.0.5",
+  "AssemblyName": "ParadoxDeparadoxified.dll",
+  "EntryMethod": "ParadoxDeparadoxified.Main.Load"
+}
